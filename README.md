@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Muhammad Usaid Shah 👋
 
-<!--
-**Muhammad-Usaid-Shah-123/Muhammad-Usaid-Shah-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an Electrical Engineering (Computing & AI) student at the University of Engineering & Technology, Peshawar. I am passionate about Python, Artificial Intelligence, and Machine Learning. I enjoy learning new technologies, solving real-world problems, and building projects that strengthen my programming and AI skills. My goal is to continuously grow as a developer and contribute to meaningful software and AI solutions.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Git & GitHub
+- C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Advanced Python
+- Machine Learning
+- Data Structures & Algorithms
+- AI Applications
+
+## Goals
+- Build practical AI and Python projects
+- Contribute to open-source projects
+- Continuously improve my programming and problem-solving skills
+
+## Contact
+- GitHub: https://github.com/Muhammad-Usaid-Shah-123
+- Email: musaidshah786@gmail.com
+
+---
+*"Learning today, building for tomorrow."* 🚀
